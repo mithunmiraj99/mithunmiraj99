@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A Food Delivery Website ">
+    <!-- FAVICON -->
+    <link rel="shortcut icon" href="resource/img/fast-food-outline.svg" type="image/x-icon">
+    <!-- TITLE -->
+    <title>AMERICAN FOOD</title>
+    <!-- CSS FILE -->
+    <link rel="stylesheet" href="resource/css/main.css">
+    <link rel="stylesheet" href="resource/css/quary.css">
+</head>
+<body>
+    <!-- START HOME SECTION -->
+    <section id="home" class="home">
+        <div class="head">
+        <div class="search">
+            <input type="search" placeholder="Search Here">
+            <a href="#pricing"><ion-icon name="search-outline" id="#service"></ion-icon></a>
+            <hr>
+            
+        </div>
+        <div class="logo">
+            <a href="#home"><ion-icon name="fast-food-outline"></ion-icon></a>
+            <p>AMERICAN FOOD</p>
+        </div>
+        <div class="login">
+            <a href="/login/index.html" target="_blank" >Register/Login</a>
+        </div>
+        <div class="addtocut">
+            <a href="#"><ion-icon name="heart-outline"></ion-icon></a>
+            <a href="#"><ion-icon name="laptop-outline"></ion-icon></a>
+        </div>
+    </div>
+    <header class="header">
+        <ul>
+            <li><a href="#home">HOME</a></li>
+            <li><a href="#about">About us</a></li>
+            <li><a href="#service">Service</a></li>
+            <li><a href="#pricing">pricing</a></li>
+            <li><a href="#blog">blog</a></li>
+            <li><a href="#contact">contact</a></li>
+        </ul>
+    </header>
+    <div class="container">
+
+    <div class="home-content">
+        <h1>AMERICAN FOOD</h1>
+        <h3>The Best Taste Food</h3>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. <br>Ex tempore praesentium corporis distinctio odio odit, <br> fuga non nemo rem rerum. Culpa blanditiis rem a adipisci.</p>
+        <button class="btn btn-full"><a href="#pricing">ORDER NOW</a></button>
+        <button class="btn btn-full1"><a href="#pricing"><ion-icon name="arrow-back-outline"></ion-icon></a></button>
+    </div>
+</div>
+
+    </section>
+
+<!-- END HOME SECTION -->
+<!-- START ABOUT SECTON -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="about-content">
+                <h2>ABOUT US</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat ipsum nulla totam ea omnis nostrum <br> adipisci numquam asperiores quidem temporibus.</p>
+            </div>
+            <div class="about-grid">
+                <div class="about-grid-item">
+                    <h5>Let food be thy medicine medicine be thy food.</h5>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo quia pariatur repellendus laboriosam explicabo perspiciatis sint voluptas ullam, maxime corrupti dolorem nihil incidunt fugiat asperiores, laudantium temporibus aliquam numquam quo officia assumenda fugit maiores tempore nesciunt odio! Accusamus magni dolores repudiandae quisquam nihil, impedit eaque deserunt. Quibusdam pariatur sapiente nulla.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ea dolores voluptatem maxime impedit minus quis fuga atque veritatis magnam?</p>
+                    <button class="btn btn-full"><a href="#">ORDER NOW</a></button>
+                    
+                </div>
+                <div class="about-grid-item">
+                    <img src="resource/img/about.png" alt="" class="layer" >
+                </div>
+                <div class="about-grid-item">
+                    <img src="resource/img/last.png" alt="" class="layer">
+                </div>
+                <div class="about-grid-item">
+                    <h5>Let food be thy medicine medicine be thy food.</h5>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo quia pariatur repellendus laboriosam explicabo perspiciatis sint voluptas ullam, maxime corrupti dolorem nihil incidunt fugiat asperiores, laudantium temporibus aliquam numquam quo officia assumenda fugit maiores tempore nesciunt odio! Accusamus magni dolores repudiandae quisquam nihil, impedit eaque deserunt. Quibusdam pariatur sapiente nulla.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ea dolores voluptatem maxime impedit minus quis fuga atque veritatis magnam?</p>
+                    <button class="btn btn-full"><a href="#">ORDER NOW</a></button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END ABOUT SECTION -->
+    <!-- START SERVICES SECTION-->
+    <section id="service" class="service">
+        <div class="container">
+            <div class="service-content">
+                <h2>SERVICE</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis hic magnam nobis deleniti id <br> autem ea sint culpa vel necessitatibus.</p>
+            </div>
+            <div class="service-grid">
+                <div class="service-grid-item">
+                    <div class="nas">
+                        <h6>Peanut butter</h6>
+                        <h5>$45</h5>
+                    </div>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam rem dignissimos et quam iusto, suscipit ea quasi! Officiis eligendi adipisci, quia fuga eos, culpa accusantium illo totam cum suscipit voluptatibus quasi. Eaque at ipsa ratione animi consequatur, laboriosam dicta, corporis quibusdam voluptatibus ipsam rerum quod tempora quos fugiat. Maiores, temporibus.</p>
+                    <button class="btn"><a href="#">BUY NOW</a></button>
+                </div>
+                <div class="service-grid-item">
+                    <img src="resource/img/service1.png" alt="service1">
+                </div>
+                <div class="service-grid-item">
+                    <div class="nas">
+                        <h6>Pumpkin pie</h6>
+                        <h5>$35</h5>
+                    </div>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam rem dignissimos et quam iusto, suscipit ea quasi! Officiis eligendi adipisci, quia fuga eos, culpa accusantium illo totam cum suscipit voluptatibus quasi. Eaque at ipsa ratione animi consequatur, laboriosam dicta, corporis quibusdam voluptatibus ipsam rerum quod tempora quos fugiat. Maiores, temporibus.</p>
+                    <button class="btn"><a href="#">BUY NOW</a></button>
+                </div>
+                <div class="service-grid-item">
+                    <img src="resource/img/service2.png" alt="service1">
+                </div>
+                <div class="service-grid-item">
+                    <div class="nas">
+                        <h6>Jambaiaya</h6>
+                        <h5>$50</h5>
+                    </div>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam rem dignissimos et quam iusto, suscipit ea quasi! Officiis eligendi adipisci, quia fuga eos, culpa accusantium illo totam cum suscipit voluptatibus quasi. Eaque at ipsa ratione animi consequatur, laboriosam dicta, corporis quibusdam voluptatibus ipsam rerum quod tempora quos fugiat. Maiores, temporibus.</p>
+                    <button class="btn"><a href="#">BUY NOW</a></button>
+                </div>
+                <div class="service-grid-item">
+                    <img src="resource/img/service3.png" alt="service1">
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- START PRICING SECTION-->
+    <section id="pricing" class="pricing">
+        <div class="container">
+            <div class="pricing-grid">
+                <div class="pricing-grid-item">
+                    <div class="box">
+                    <p>Basic <br><span>$35</span></p>
+                </div>
+                    <h6>6 pic Chiken</h6>
+                    <h6>3 pic Beef Chiken</h6>
+                    <h6>2 pic Burger</h6>
+                    <button class="btn"><a href="#">BUY NOW</a></button>
+                </div>
+                <div class="pricing-grid-item">
+                    <div class="box"><p>Standert <br><span>$50</span></p></div>
+                    <h6>6 pic Chiken</h6>
+                    <h6>3 pic Beef Chiken</h6>
+                    <h6>2 pic Burger</h6>
+                    <button class="btn"><a href="#">BUY NOW</a></button>
+                </div>
+                <div class="pricing-grid-item">
+                    <div class="box"><p>Premium <br><span>$80</span></p></div>
+                    <h6>6 pic Chiken</h6>
+                    <h6>3 pic Beef Chiken</h6>
+                    <h6>2 pic Burger</h6>
+                    <button class="btn"><a href="#">BUY NOW</a></button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- END PRICING SECTION -->
+    <!-- START DISCOUNT SECTION-->
+    <div class="discount">
+        <div class="container">
+            <div class="discount-grid-item">
+                <h5>Special</h5>
+                <h3>SALE 50% DISCOUNT</h3>
+                <h4>ALL FOOD  PRODUCTS</h4>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus at vero animi! <br> Minima obcaecati aperiam placeat, perferendis dolorem quo vero.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit quo iste sit qui saepe veniam quisquam ut repellendus dolore voluptates mollitia quas, necessitatibus exercitationem doloribus deleniti. Ratione corporis inventore quisquam nulla eveniet consectetur placeat! Magni delectus corrupti tempore eligendi? Nihil inventore harum aspernatur enim maxime quisquam ut dolore sit vitae dolorem illum eos cupiditate necessitatibus, assumenda reiciendis tenetur in expedita praesentium. Ipsa ipsam hic unde pariatur aspernatur neque reiciendis! Et fugiat ea voluptate delectus fuga.</p>
+                <button class="btn"><a href="#">DISCOVER NOW</a></button>
+            </div>
+        </div>
+    </div>
+    <!-- END DISCOUNT SECTION -->
+    <!-- START BLOG SECTION -->
+    <section id="blog" class="blog">
+        <div class="container">
+            <h2>Blog</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem non omnis labore unde dicta, doloremque quis voluptates excepturi pariatur corrupti.</p>
+            <div class="blog-grid">
+                <div class="blog-grid-item">
+                    <div class="blog-content">
+                        <img src="resource/img/last.png" alt="last">
+                    </div>
+                </div>
+                <div class="blog-grid-item">
+                    <div class="blog-content-2">
+                        <h3>Eat food not too much mostly plants.</h3>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Amet suscipit id reprehenderit, architecto illum facilis eveniet velit animi laudantium, iure impedit quis laboriosam ducimus harum, deleniti blanditiis saepe? Qui, sapiente?</p>
+                        <button class="btn"><a href="#">Read More</a></button>
+                    </div>
+                    </div>
+                
+                <div class="blog-grid-item">
+                    <div class="blog-content">
+                        <img src="resource/img/last2.png" alt="last">
+                    </div>
+                    
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- END BLOG SECTION -->
+<!-- START FUTTER SECTION-->
+    <section class="last-part">
+        <div class="uo">
+      
+        <div class="container">
+            
+        <div class="last-logo">
+            <a href="#"><ion-icon name="fast-food-outline"></ion-icon></a>
+            <p>AMERICAN FOOD</p>
+        </div>
+        <div class="futter">
+            <h2>AMERICAN FOOD</h2>
+            <h6>The Best Taste Food</h6>
+            <div class="social-media">
+                <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+                <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+                <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+                <a href="#"><ion-icon name="logo-whatsapp"></ion-icon></a>
+            </div>
+            <div class="copy">
+                <p>@CopyRight : Mithun 2023</p>
+            </div>
+        </div>
+
+    </div>
+    <div class="up">
+        <button class="btnl"> <a href="#home"><ion-icon name="arrow-up-outline"></ion-icon></a></button>
+    </div>
+</div>
+    </section>
+
+
+
+    <!-- JS FILE -->
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
